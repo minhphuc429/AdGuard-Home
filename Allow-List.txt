@@ -1,2 +1,10 @@
 notify.bugsnag.com
 sessions.bugsnag.com
+slackb.com
+slack.com
+slack-core.com
+slack-edge.com
+slack-files.com
+slack-imgs.com
+slack-msgs.com
+slack-redir.net
