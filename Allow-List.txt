@@ -1,3 +1,4 @@
+app.bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
 slackb.com
